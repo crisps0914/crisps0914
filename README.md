@@ -5,7 +5,7 @@ A passionate self-taught full stack web developer. my passion for software lies 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any work? do reach, [email](mailto:caioball914@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 ### Technologies
